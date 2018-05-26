@@ -1,0 +1,1 @@
+echo muie > log.txt
